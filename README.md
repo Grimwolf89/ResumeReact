@@ -1,2 +1,2 @@
 # ResumeReact
-A technical resum created using React
+A technical resume for a software developer created using React
